@@ -1,0 +1,6 @@
+https://www.github.com/rust-lang/rust
+https://www.github.com/collections/choosing-projects
+https://www.github.com/collections
+https://www.github.com/topics
+https://www.github.com/trending
+https://www.github.com/explore
